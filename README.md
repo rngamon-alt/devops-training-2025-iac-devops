@@ -34,3 +34,4 @@ There will be five practical cases, each with a single solution branch named `tr
 - training-3-github-actions (PENDING)
 - training-4-gitlab-ci-cd (PENDING)
 - training-5-azure-devops-pipelines (PENDING)
+
